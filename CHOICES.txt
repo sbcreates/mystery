@@ -17,3 +17,4 @@ Seventh Choice: 1 - Listen in on what he's saying
 
 Fourth Choice: 1 - You've seen enough. Danny's clearly guilty! Taking out the trash? Cleaning up the mess? Come on. Accuse Danny.
 Sixth Choice: 2 - Seriously, where did this Doctor even come from? Isn't it pretty suspicious that he ran in just after Mr. Body was murdered? It must've been him. Accuse him.
+Sixth Choice: 1 - Wait a minute. Helga should've known not to pick up the pipe. Everyone knows not to touch evidence at a crime scene. UNLESS... she was purposely trying to contaminate the pipe so that you wouldn't be able to lift her prints from it. Accuse her.
